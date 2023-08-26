@@ -1,0 +1,27 @@
+// Search styles
+
+@use "../../style/var";
+
+.Search {
+    max-width: 630px;
+
+    input {
+        width: calc(100% - 80px);
+        color: var.$search-color;
+
+        background-color: var.$search-bg-color;
+        background-image: url("../../img/search-svgrepo-com.svg");
+        background-position: center right 16px;
+        background-repeat: no-repeat;
+
+        padding: 15px 55px 15px 25px;
+        margin-bottom: 15px;
+
+        border: none;
+        font-size: 0.875rem;
+    }
+
+    input::placeholder {
+        color: var.$search-placeholder-color;
+    }
+}

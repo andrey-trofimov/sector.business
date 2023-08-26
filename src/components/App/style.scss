@@ -1,0 +1,33 @@
+// App styles
+
+@use "../../style/var";
+
+.App {
+    margin: 165px 148px 50px;
+    padding: 23px 78px 12px;
+    max-width: 1076px;
+    box-shadow: 0px 4px 27px rgba(230, 231, 234, 0.78);
+
+    @media screen and (max-width: var.$xl) {
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+
+    @media screen and (max-width: var.$l) {
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    @media screen and (max-width: var.$s) {
+        padding-left: 20px;
+        padding-right: 20px;
+
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    @media screen and (max-width: var.$xs) {
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
