@@ -5,7 +5,8 @@
 Реализовано spa в соответствии с [предложенным макетом](https://www.figma.com/file/amcWeZhjaZ0eSyYiSNG6vN/%D0%9C%D0%B0%D0%BA%D0%B5%D1%82-%D1%82%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D1%8B?node-id=0%3A1), в котором представлена таблица с данными пользователей и возможностью сортировки и поиска.
 [Техническое задание для теста](https://docs.google.com/document/d/1c3O9IfSIb_LLWFGH13_P-EKgfth6-crahUTDC5qOqAg/edit#heading=h.cq1jncb1nlw0)
 
-##Особенности реализации приложения
+## Особенности реализации приложения
+
 Приложение разработано с использованием React, Redux toolkit и SASS и состоит из трех основных компонентов:
 
 - Search
