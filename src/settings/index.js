@@ -1,1 +1,2 @@
-export let postsPerPage = 10;
+export let postsPerPage = 10; // количество постов на странице
+export let halfRange = 2; // количество страниц в пагинации слева и справа от открытой страницы
