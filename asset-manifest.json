@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sector.business/static/css/main.393743fb.css",
+    "main.js": "/sector.business/static/js/main.9664012e.js",
+    "static/media/search-svgrepo-com.svg": "/sector.business/static/media/search-svgrepo-com.9f838a248d0ce6bfb0c1.svg",
+    "index.html": "/sector.business/index.html",
+    "static/media/arrow.svg": "/sector.business/static/media/arrow.aca58690c46a4e495e19.svg",
+    "main.393743fb.css.map": "/sector.business/static/css/main.393743fb.css.map",
+    "main.9664012e.js.map": "/sector.business/static/js/main.9664012e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.393743fb.css",
+    "static/js/main.9664012e.js"
+  ]
+}
